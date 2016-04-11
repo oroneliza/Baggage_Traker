@@ -1,0 +1,9 @@
+3 pieces of baggage were sent to LON.
+2 pieces of baggage were sent to MIA.
+2 pieces of baggage were sent to MIL.
+2 pieces of baggage were sent to NYC.
+2 pieces of baggage were sent to PAR.
+1 pieces of baggage were sent to ROM.
+1 pieces of baggage were sent to SIN.
+1 pieces of baggage were sent to TLV.
+In total, 14 pieces of baggage were handled.

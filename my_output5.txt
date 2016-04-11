@@ -1,0 +1,14 @@
+6 pieces of baggage were sent to ADB.
+126 pieces of baggage were sent to EOP.
+41160 pieces of baggage were sent to HTW.
+107520 pieces of baggage were sent to LON.
+53760 pieces of baggage were sent to MIA.
+53760 pieces of baggage were sent to MIL.
+41160 pieces of baggage were sent to NRW.
+80808 pieces of baggage were sent to NYC.
+80808 pieces of baggage were sent to PAR.
+33600 pieces of baggage were sent to ROM.
+40320 pieces of baggage were sent to SIN.
+40320 pieces of baggage were sent to TLV.
+6720 pieces of baggage were sent to ZIR.
+In total, 580068 pieces of baggage were handled.
